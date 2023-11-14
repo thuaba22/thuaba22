@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thuaba22
-- 👀 I’m interested in web development, SQA 
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in technology-related any topic
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me mim.islam.tabassuma@gmail.com
 
