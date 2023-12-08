@@ -1,4 +1,4 @@
-[!(/images/cover.gif)](www.linkedin.com/in/thuaba-islam-8974b51a4)
+[![](https://i.postimg.cc/L6946C0v/cover.gif)](www.linkedin.com/in/thuaba-islam-8974b51a4)
 
 # Current overview
 
