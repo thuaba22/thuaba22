@@ -1,10 +1,16 @@
 # Current overview
 
-- 👋 Hi, I’m @thuaba22
-- 👀 I’m interested in technology-related any topic
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me mim.islam.tabassuma@gmail.com
+👋 Greetings, I'm @thuaba22
+
+🚀 Tech enthusiast navigating the realms of the MERN stack.
+
+💻 Actively pursuing engaging web development collaborations.
+
+🌐 Committed to staying ahead in tech trends and continuous improvement.
+
+🔍 Contributing to open-source projects, poised for challenging opportunities.
+
+✉️ Let's connect! Reach me at mim.islam.tabassuma@gmail.com.
 
 <!---
 thuaba22/thuaba22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
