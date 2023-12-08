@@ -1,4 +1,4 @@
-[![Profile Cover](https://i.postimg.cc/L6946C0v/cover.gif)](https://www.linkedin.com/in/thuaba-islam-8974b51a4)
+[![Profile Cover](https://i.postimg.cc/Gp5dMbc5/Pixelated-Animated-Nostalgic-90s-Illustrations-Discord-Profile-Banner.gif)](https://www.linkedin.com/in/thuaba-islam-8974b51a4)
 
 # Current overview
 
