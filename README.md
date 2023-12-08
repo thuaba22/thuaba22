@@ -1,4 +1,8 @@
-[![cover.gif](https://i.postimg.cc/L6946C0v/cover.gif)](https://postimg.cc/xqZV6RQb)
+<p align="center">
+  <a href="https://www.linkedin.com/in/thuaba-islam-8974b51a4">
+    <img src="https://i.postimg.cc/Gp5dMbc5/Pixelated-Animated-Nostalgic-90s-Illustrations-Discord-Profile-Banner.gif" alt="Profile Cover" width="100%">
+  </a>
+</p>
 
 # Current overview
 
