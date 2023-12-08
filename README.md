@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/Gp5dMbc5/Pixelated-Animated-Nostalgic-90s-Illustrations-Discord-Profile-Banner.gif)](www.linkedin.com/in/thuaba-islam-8974b51a4)
+[![MasterHead](https://i.postimg.cc/L6946C0v/cover.gif)](www.linkedin.com/in/thuaba-islam-8974b51a4)
 
 # Current overview
 
