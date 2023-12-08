@@ -1,3 +1,5 @@
+[![MasterHead](https://i.postimg.cc/Gp5dMbc5/Pixelated-Animated-Nostalgic-90s-Illustrations-Discord-Profile-Banner.gif)](www.linkedin.com/in/thuaba-islam-8974b51a4)
+
 # Current overview
 
 👋 Greetings, I'm @thuaba22
