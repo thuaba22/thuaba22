@@ -27,7 +27,9 @@ I have a talent for creating visually striking user interfaces and I'm an aspiri
 
 # Live Coding Metrics
 
-![thuaba22's Stats](https://github-readme-stats.vercel.app/api?username=thuaba22&theme=vue&show_icons=true&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=thuaba22
+&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thuaba22&theme=shadow-brown&hide_border=true&type=png&background=FFFFFF)](https://git.io/streak-stats)
 
 # Most Used Languages
