@@ -27,14 +27,12 @@ I have a talent for creating visually striking user interfaces and I'm an aspiri
 
 # Live Coding Metrics
 
-<img src="https://github-readme-stats.vercel.app/api?username=thuaba22
-&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
+![thuaba22's Stats](https://github-readme-stats.vercel.app/api?username=thuaba22&theme=vue&show_icons=true&hide_border=true&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thuaba22&theme=shadow-brown&hide_border=true&type=png&background=FFFFFF)](https://git.io/streak-stats)
 
 # Most Used Languages
 
-![thuaba22's Top Languages](https://api.githubtrends.io/user/svg/thuaba22/langs?time_range=one_year&compact=True&theme=classic)
+![thuaba22's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thuaba22&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
 # Current overview
 
